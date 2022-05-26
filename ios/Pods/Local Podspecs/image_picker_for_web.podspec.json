@@ -1,0 +1,26 @@
+{
+  "name": "image_picker_for_web",
+  "version": "0.0.1",
+  "summary": "No-op implementation of image_picker_for_web plugin to avoid build issues on iOS",
+  "description": "temp fake image_picker_for_web plugin",
+  "homepage": "https://github.com/flutter/plugins/tree/master/packages/image_picker/image_picker_for_web",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Flutter Team": "flutter-dev@googlegroups.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  }
+}
